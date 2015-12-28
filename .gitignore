@@ -1,6 +1,9 @@
 .gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
-/app/build
+gradle.properties
+local.properties
+mqtt_android.iml
+.idea/*
+app/app.iml
+app/build/*
+build/*
 
